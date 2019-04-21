@@ -1,0 +1,3 @@
+Company_Name,Period,Gross_Margin,Gross_Margin_Percent,Operating_Income,Operating_Margin_Percent,Net_Income,Net_Profit_Margin_Percentage
+Apple,12/29/2018,32031,0.38,23346,0.28,19965,0.24,
+Apple,12/30/2017,33912,0.38,26274,0.3,20065,0.23,
